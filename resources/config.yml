@@ -1,0 +1,5 @@
+mentionInChat: true
+mentionTitle: '&eSomeone mentioned you!'
+
+antiSpam: true
+spamInterval: 10
